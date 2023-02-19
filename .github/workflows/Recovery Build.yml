@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'omni_Infinix-X657C.mk'
+        default: 'omni_Infinix-X657C-user'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
